@@ -16,6 +16,7 @@ If node is connected to another set - then choose root node of another set and a
 
 # Implementation of the disjoint sets as explained in this Explore card - https://leetcode.com/explore/learn/card/graph/618/disjoint-set/3881/
 # Such an amazing article which made the concept very clear - Lets implement my way to see my understanding of the concept
+# Leetcode - saved playground link - https://leetcode.com/playground/X5FQg9ju
 
 # Question: Given two nodes x and y, say whether x and y are connected return True if they are connected, False if they aren't
 
